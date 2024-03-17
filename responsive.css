@@ -1,0 +1,28 @@
+@media (max-width: 768px){
+    #p-logo{
+        left: 50%;
+    transform: translateX(-50%);
+    }
+    div#column-content{
+        margin: 0;
+    float: none;
+    clear: both;
+    }
+    div#content{
+    margin: 155px 16px 16px 16px;
+    border-right: 1px solid #aaa;
+    padding: 16px;
+    overflow: hidden;
+    }
+    .box-1{
+        float: none!important;
+        clear: both;
+        margin-left: 0!important;
+        margin-bottom: 18px;
+    }
+
+    table#toc{
+        width: 100%;
+    }
+
+}
